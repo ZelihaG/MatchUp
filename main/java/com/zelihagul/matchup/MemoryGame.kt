@@ -41,7 +41,6 @@ class MemoryGame {
 
     fun haveWonGame(): Boolean {
         return numPairsFound == 4
-        MemoryGame()
     }
 
 
